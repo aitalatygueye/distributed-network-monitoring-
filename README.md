@@ -68,6 +68,8 @@ python client/agent_client.py
 ## Simulation de plusieurs machines
 
 for i in {1..20}; do python client/agent_client.py & done
+ou
+for ($i=1; $i -le 20; $i++) { python client/agent_client.py }
 
 ## Exemple de données envoyées
 
