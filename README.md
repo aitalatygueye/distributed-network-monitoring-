@@ -47,7 +47,7 @@ README.md → documentation
 
 Cloner le dépôt GitHub :
 
-git clone https://github.com/aitalatygueye/distributed-network-monitoring.git
+git clone https://github.com/aitalatygueye/distributed-network-monitoring-.git
 
 Entrer dans le projet :
 
